@@ -1,0 +1,5 @@
+1. Ejecutar el quikstart.php y seguir los pasos
+2. Ejecutar el configInicial.php para crear la label procesados.
+
+
+3. Ejecutar recover.php programa principal
